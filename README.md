@@ -1,4 +1,4 @@
-# Computation for iNteractive Groundwater Book
+# Online Computations for the iNteractive Groundwater Book
 
 The site will provide a JUPYTER lab with all the required libraries, and can be used for computations/modification and development of the code. Make sure to download your copy of the ipynb file if the code is to saved. The code is locally saved in your browser, so if you do not download your ipynb, you can not retrieve codes that you developed yourself.
 
