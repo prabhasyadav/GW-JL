@@ -1,29 +1,18 @@
-# JupyterLite Demo
+# Computation for iNteractive Groundwater Book
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
-
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
-
-## ✨ Try it in your browser ✨
-
-➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+The site will provide a JUPYTER lab with all the required libraries, and can be used for computations/modification and development of the code. Make sure to download your copy of the ipynb file if the code is to saved. The code is locally saved in your browser, so if you do not download your ipynb, you can not retrieve codes that you developed yourself.
 
 ## Requirements
 
-JupyterLite is being tested against modern web browsers:
+Modern browser preferably the following ones will be required:
 
 - Firefox 90+
 - Chromium 89+
 
-## Deploy your JupyterLite website on GitHub Pages
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+## Credits:
+* This development uses [Jupyterlite](https://jupyterlite.readthedocs.io/en/latest/index.html#) ![alt text](/content/figs/JLicon_small.png)
+* Everything on the site is licenced under CC-BY-4.0
+* Individual Credits
+    * Prabhas K Yadav
+    * To be continued
