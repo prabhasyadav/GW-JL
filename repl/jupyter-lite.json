@@ -1,6 +1,8 @@
 {
     "jupyter-lite-schema-version": 0,
     "jupyter-config-data": {
+      "defaultKernelName": "python",
+      "collaborative": true,
       "disabledExtensions": [
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
